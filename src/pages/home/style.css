@@ -1,0 +1,22 @@
+.pageHome-wrapper,
+.pageHome-img1,
+.pageHome-img2 {
+  width: 100%;
+}
+.pageHome-wrapper {
+  padding-top: 100px;
+  margin-left: 30px;
+}
+.kabah {
+  padding-right: 30px;
+  width: 50%;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  float: left;
+}
+
+.cerita {
+  font-size: 50px;
+  padding: 20px;
+  font-style: arial;
+}

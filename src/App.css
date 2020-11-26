@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: #26cca8;
+  float: right;
+}
+
+.menu {
+  display: inline-block;
+  padding: 20px;
+  color: white;
+  position: static;
+}
+
+.menu:hover {
+  background-color: white;
+  color: green;
+  border-radius: 20px;
+}
+
+.header:hover {
+  border-radius: 20px;
+}
